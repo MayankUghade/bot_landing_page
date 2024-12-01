@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Homepage from "./Homepage";
 import Conversions from "./Conversions";
 import { AIFeatures } from "./AiFeatures";

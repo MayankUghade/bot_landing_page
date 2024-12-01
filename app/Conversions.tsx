@@ -1,8 +1,7 @@
 "use client";
-
 import React from "react";
 import { motion } from "framer-motion";
-import { ArrowRight, FileText, ImageIcon, FileType } from "lucide-react";
+import { ArrowRight, FileText, ImageIcon } from "lucide-react";
 import { useState } from "react";
 import { useEffect } from "react";
 
