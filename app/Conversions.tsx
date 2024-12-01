@@ -55,6 +55,7 @@ export default function Conversions() {
                   rotate: index % 2 === 0 ? -3 : 3,
                 }}
                 transition={{ delay: index * 0.1 }}
+                viewport={{ once: true }}
               >
                 {file.ext}
               </motion.div>
